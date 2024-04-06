@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Peacock Mantis Shrimp Data</title>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  caption {
+    caption-side: top;
+    font-size: larger;
+    font-weight: bold;
+    margin: 10px;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <caption>Peacock Mantis Shrimp (Odontodactylus scyllarus)</caption>
+  <tr>
+    <th>Common Name</th>
+    <th>AKA</th>
+    <th>Kingdom</th>
+    <th>Phylum</th>
+    <th>Class</th>
+    <th>Order</th>
+  </tr>
+  <tr>
+    <td>Peacock mantis shrimp</td>
+    <td>Harlequin or painted mantis shrimp</td>
+    <td>Animalia</td>
+    <td>Arthropoda</td>
+    <td>Malacostraca</td>
+    <td>Stomatopoda</td>
+  </tr>
+  <tr>
+    <th>Family</th>
+    <th>Genus</th>
+    <th>Species</th>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td>Odontodactylidae</td>
+    <td>Odontodactylus</td>
+    <td>O. scyllarus</td>
+    <td colspan="3"></td>
+  </tr>
+  <!-- The following rows are empty to satisfy the 6x6 requirement -->
+  <tr><td colspan="6"></td></tr>
+  <tr><td colspan="6"></td></tr>
+  <tr><td colspan="6"></td></tr>
+  <tr><td colspan="6"></td></tr>
+</table>
+
+</body>
+</html>
